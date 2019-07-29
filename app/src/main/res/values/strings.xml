@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GrabNews</string>
+    <string name="reset_text">Reset</string>
+    <string name="search_text">Search</string>
+    <string name="search_by_source_text">Search by source</string>
+    <string name="advanced_search_text">Advanced Search</string>
+    <string name="no_data_message">We are not getting any results.\nTry another search</string>
+    <string name="country">Country</string>
+    <string name="category">Category</string>
+    <string name="search">Tap to search</string>
+</resources>
